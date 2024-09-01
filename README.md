@@ -1,9 +1,9 @@
 # Shop Management System
-### Contributors:
+## Contributors:
       Shon Pazarker, Haim Ozer
-### Project Name:
+## Project Name:
       SmartShop Manager
-### Description:
+## Description:
       A console-based shop management system that allows users to manage employees, items, customers, and shop operations with an easy-to-use interface.
 
 ## Features
